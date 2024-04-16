@@ -1,0 +1,6 @@
+firstVm/.terraform/
+vpc/.terraform/
+payroll-application/app_in_us-east-1/.terraform/
+vpc3/.terraform/
+vpc/terraform.tfstate
+vpc/terraform.tfstate.backup
